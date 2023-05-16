@@ -14,7 +14,7 @@ const SideNav = (menus) => {
         </div>
         <hr />
       </div>
-
+      <hr />
       <div>
         {menuItems.map((item, index) => (
           <li key={index}>{item}</li>
